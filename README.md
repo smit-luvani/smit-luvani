@@ -39,7 +39,7 @@ Express Forster is ready to use template for Node JS Rest API developer in order
 [school-score]: https://schoolscore.in/
 [twitter]: https://twitter.com/luvani31
 [youtube]: https://www.youtube.com/c/smitluvani
-[instagram]: https://instagram.com/luvani31
+[instagram]: https://instagram.com/luvani_31
 [linkedin]: https://linkedin.com/in/smit-luvani
 [github-express-forster]: https://github.com/smit-luvani/express-forster
 [gitlab-express-forster]: https://gitlab.com/smit-luvani/express-forster
