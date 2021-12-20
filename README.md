@@ -1,7 +1,7 @@
 # Welcome to Smit Luvani's Github
 
-[![Website](https://img.shields.io/website?label=Smit%20Luvani&style=for-the-badge&url=https://smit-luvani.github.io/profile/)][website]
-[![Twitter Follow](https://img.shields.io/twitter/follow/luvani31?color=1DA1F2&logo=twitter&style=for-the-badge)][twitter]
+[![Website](https://img.shields.io/website?label=Smit%20Luvani&style=for-the-badge&url=https://smit-luvani.github.io/profile)][website]
+[![Twitter Follow](https://img.shields.io/twitter/follow/luvani31?color=1DA1F2&logo=twitter&style=for-the-badge&url=https://twitter.com/luvani31)][twitter]
 
 ## Hi there, I'm Smit Luvani - aka Luvani👋 
 ### I'm Web & App Developer and Student of M.Sc. Computer Science
@@ -17,7 +17,7 @@
 
 I have experience in many programming languages including PHP, Javascript, Python, Java, C++, C#, ASP.NET. My preferred language is Javascript.
 
-[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=smit-luvani)](https://github.com/anuraghazra/github-readme-stats)
+[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=smit-luvani)](https://github.com/smit-luvani?tab=repositories)
 
 ### Public Repository
 
