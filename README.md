@@ -4,24 +4,12 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/luvani31?color=1DA1F2&logo=twitter&style=for-the-badge&url=https://twitter.com/luvani31)][twitter]
 
 ## Hi there, I'm Smit Luvani - aka Luvani👋 
-### I'm Web & App Developer and Student of M.Sc. Computer Science
+### Full Stack Developer with Mobile development, DevOps and Cloud Platform (IaS, PAAS, SAAS) experience.
 
-- 🔭 I have vision for [School Score][school-score]!
-- 🌱 I’m currently learning everything, that's called growing tree
-- ⚡ Fun fact: I love to do code, outdoor games, traveling, and swimming
+- 🌱 I’m currently learning everything, that's called growing a tree
+- ⚡ Fun fact: I love to do code, outdoor games, travelling, and swimming
 
-
-[![Luvani's GitHub](https://github-readme-stats.vercel.app/api?username=smit-luvani&hide=stars,prs,issues,contribs&include_all_commits=true&count_private=true&show_icons=true&theme=vue&border_color=#6a0dad&hide_border=true&custom_title=Luvani's%20Github)](https://github.com/smit-luvani)
-
-### Language:
-
-I have experience in many programming languages including PHP, Javascript, Python, Java, C++, C#, ASP.NET. My preferred language is Javascript.
-
-[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=smit-luvani)](https://github.com/smit-luvani?tab=repositories)
-
-### Public Repository
-
-Express Forster is ready to use template for Node JS Rest API developer in order to enhance productivity, security, speed and reliability with clean code.
+Express Forster is ready to use a template for Node JS Rest API developers in order to enhance productivity, security, speed and reliability with clean code.
 
 [![Github Express Forster](https://img.shields.io/badge/Github-Express%20Forster-blueviolet)][github-express-forster]
 [![Gitlab Express Forster](https://img.shields.io/badge/Gitlab-Express%20Forster-blueviolet)][gitlab-express-forster]
@@ -35,8 +23,7 @@ Express Forster is ready to use template for Node JS Rest API developer in order
 [<img align="left" alt="Smit Luvani | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
-[website]: https://smit-luvani.github.io/profile/
-[school-score]: https://schoolscore.in/
+[website]: https://smit-luvani.github.io/profile
 [twitter]: https://twitter.com/luvani31
 [youtube]: https://www.youtube.com/c/smitluvani
 [instagram]: https://instagram.com/luvani_31
